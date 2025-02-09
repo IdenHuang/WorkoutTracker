@@ -1,0 +1,14 @@
+{"Workout": [
+    {"Exercise": [{
+        "reps": 12,
+        "sets": 6,
+        "name": "Leg Extensions",
+        "weight": 80
+    }]},
+    {"Exercise": [{
+        "reps": 12,
+        "sets": 4,
+        "name": "Leg Press",
+        "weight": 225
+    }]}
+]}

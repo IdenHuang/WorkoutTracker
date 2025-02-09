@@ -1,0 +1,36 @@
+{"Workout": [
+    {"Exercise": [
+        {
+            "reps": 5,
+            "sets": 5,
+            "name": "Leg Press",
+            "weight": 225
+        },
+        {
+            "reps": 5,
+            "sets": 5,
+            "name": "Leg Extensions",
+            "weight": 225
+        }
+    ]},
+    {"Exercise": [
+        {
+            "reps": 2,
+            "sets": 2,
+            "name": "Bench Press",
+            "weight": 225
+        },
+        {
+            "reps": 5,
+            "sets": 5,
+            "name": "Shoulder Presses",
+            "weight": 225
+        }
+    ]},
+    {"Exercise": [{
+        "reps": 1,
+        "sets": 1,
+        "name": "Bench",
+        "weight": 500
+    }]}
+]}

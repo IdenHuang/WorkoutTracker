@@ -1,0 +1,24 @@
+{
+    "Workout": [
+        {
+            "Exercise": [
+                {
+                    "sets": 4,
+                    "reps": 12,
+                    "name": "Leg Press",
+                    "weight": 225
+                }
+            ]
+        },
+        {
+            "Exercise": [
+                {
+                    "sets": 6,
+                    "reps": 12,
+                    "name": "Leg Extensions",
+                    "weight": 80
+                }
+            ]
+        }
+    ]
+}
